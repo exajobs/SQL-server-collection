@@ -651,8 +651,18 @@ R:
 **[⬆ back to top](#table-of-contents)**
 
 
-## License
-[MIT](/LICENSE)
+## Contributing 
 
-If some procedures or scripts are restricted due to **ELUA** (or we can not find original author), please email us or add issue - we remove/update it immediately.
-Thanks for understanding and patience.
+You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community
+list as well. Big thanks to all current
+[contributors](https://github.com/exajobs/community/graphs/contributors)
+who have helped build this Awesome Community list.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Exajobs](https://github.com/exajobs) has
+waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#sql-server)
