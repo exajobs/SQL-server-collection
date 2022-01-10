@@ -665,4 +665,4 @@ who have helped build this Awesome Community list.
 To the extent possible under law, [Exajobs](https://github.com/exajobs) has
 waived all copyright and related or neighboring rights to this work.
 
-[Back to top](#sql-server)
+[Back to top](#sql-server-collection)
