@@ -7,6 +7,8 @@
 ### What is SQL Server?
 * SQL Server is a relational database management system, or RDBMS, developed and marketed by Microsoft.
 
+![sqlserver](https://github.com/exajobs/SQL-server-collection/blob/main/img/microsoft-sql-server-logo.png)
+
 * A database in SQL Server is made up of a collection of tables that stores a specific set of structured data. A table contains a collection of rows, also referred to as records or tuples, and columns, also referred to as attributes. Each column in the table is designed to store a certain type of information, for example, dates, names, dollar amounts, and numbers.
 
 ### Basic Information about Databases
