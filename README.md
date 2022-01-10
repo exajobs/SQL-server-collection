@@ -1,4 +1,4 @@
-# SQL Server Collection & Tools
+# SQL Server Tools
 
 # PosgreSQL
 > Welcome To The World of SQL Server Collection®. An ongoing & curated collection of awesome software libraries, learning tutorials, Useful links & scripts, tools, resources and cool stuff about Microsoft [SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15).
