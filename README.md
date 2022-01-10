@@ -1,23 +1,16 @@
-# SQL Server KIT
-[![license badge]][license]
-[![stars badge]][stars]
-[![forks badge]][forks]
-[![issues badge]][issues]
-[![contributors_badge]][contributors]
+# SQL Server Collection
 
-[license badge]:https://img.shields.io/badge/license-MIT-blue.svg
-[stars badge]:https://img.shields.io/github/stars/ktaranov/sqlserver-kit.svg
-[forks badge]:https://img.shields.io/github/forks/ktaranov/sqlserver-kit.svg
-[issues badge]:https://img.shields.io/github/issues/ktaranov/sqlserver-kit.svg
-[contributors_badge]:https://img.shields.io/github/contributors/ktaranov/sqlserver-kit.svg
+# PosgreSQL
+> Welcome To The World of SQL Server Collection®. An ongoing & curated collection of awesome software libraries, learning tutorials, Useful links & scripts, tools, resources and cool stuff about Microsoft [SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
+> Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-[license]:https://github.com/ktaranov/sqlserver-kit/blob/master/LICENSE
-[stars]:https://github.com/ktaranov/sqlserver-kit/stargazers
-[forks]:https://github.com/ktaranov/sqlserver-kit/network
-[issues]:https://github.com/ktaranov/sqlserver-kit/issues
-[contributors]:https://github.com/ktaranov/sqlserver-kit/graphs/contributors
+### What is SQL Server?
+* SQL Server is a relational database management system, or RDBMS, developed and marketed by Microsoft.
 
-Useful links, scripts, tools and best practice for Microsoft SQL Server Database
+* A database in SQL Server is made up of a collection of tables that stores a specific set of structured data. A table contains a collection of rows, also referred to as records or tuples, and columns, also referred to as attributes. Each column in the table is designed to store a certain type of information, for example, dates, names, dollar amounts, and numbers.
+
+### Basic Information about Databases
+* A computer can have one or more than one instance of SQL Server installed. Each instance of SQL Server can contain one or many databases. Within a database, there are one or many object ownership groups called schemas. Within each schema there are database objects such as tables, views, and stored procedures. Some objects such as certificates and asymmetric keys are contained within the database, but are not contained within a schema
 
 
 <a id="table-of-contents"></a>
